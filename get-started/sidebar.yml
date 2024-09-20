@@ -1,0 +1,29 @@
+---
+section: get-started
+title: Comece agora
+entries:
+- title: Saiba mais sobre o Astra Control Center
+  url: "/get-started/intro.html"
+- title: Requisitos do Astra Control Center
+  url: "/get-started/requirements.html"
+- title: Início rápido para Astra Control Center
+  url: "/get-started/quick-start.html"
+- title: Visão geral da instalação
+  url: "/get-started/install_overview.html"
+  entries:
+  - title: Instale o Astra Control Center
+    url: "/get-started/install_acc.html"
+    entries:
+    - title: Configurar um cert-manager externo
+      url: "/get-started/cert-manager-prereqs.html"
+  - title: Instale o Astra Control Center usando o OpenShift OperatorHub
+    url: "/get-started/acc_operatorhub_install.html"
+  - title: Instalar o Astra Control Center com um back-end de storage do Cloud Volumes
+      ONTAP
+    url: "/get-started/install_acc-cvo.html"
+  - title: Configure o Astra Control Center após a instalação
+    url: "/get-started/configure-after-install.html"
+- title: Configure o Astra Control Center
+  url: "/get-started/setup_overview.html"
+- title: FAQ
+  url: "/get-started/faq.html"
